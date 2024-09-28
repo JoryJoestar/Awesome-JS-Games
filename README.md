@@ -5,4 +5,4 @@ Building open-source games on the web with JavaScript.
 
 ## 
 
-(Chinese Chess/中国象棋)[https://github.com/itlwei/Chess]
+(https://github.com/itlwei/Chess)[Chinese Chess/中国象棋]
