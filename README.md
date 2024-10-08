@@ -15,3 +15,7 @@ Building open-source games on the web with JavaScript.
 [Agent 8 ball / 桌球](https://github.com/thinkpixellab/agent8ball)
 
 [clumsy-bird](https://github.com/ellisonleao/clumsy-bird)
+
+[Flappy-bird](https://github.com/tangxiangmin/cocos-flappy-bird)
+
+[big-watermelon / 合成大西瓜](https://github.com/tangxiangmin/cocos-big-watermelon?tab=readme-ov-file)
